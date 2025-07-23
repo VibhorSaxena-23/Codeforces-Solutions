@@ -1,7 +1,7 @@
 # Codeforces Solutions
 
 This repository contains my solutions to various Codeforces problems.  
-I solve these problems as part of my competitive programming practice, and I’ve organized them by contest or problem set.
+I solve these problems as part of my competitive programming practice, and I’ve organized them by contest.
 
 ---
 
